@@ -1,13 +1,21 @@
+@font-face {
+  font-family: "Product Sans";
+  src: url("Font/Product Sans Regular.ttf");
+}
 *,
 body {
+  font-family: "Product Sans";
   margin: 0;
   padding: 0;
   text-decoration: none !important;
   list-style-type: none !important;
 }
 .contain {
-  margin: 5px 34%;
-  border-radius: 24px;
+  border-radius: 24px !important;
+  width: 360px;
+  display: flex;
+  margin: 0 auto;
+  min-height: 740px;
 }
 .isi {
   display: flex;
@@ -24,7 +32,7 @@ body {
   color: #000000;
 }
 .isi img {
-  margin-bottom: 300px;
+  margin-bottom: 200px;
   width: 100%;
 }
 .isi h2 {
