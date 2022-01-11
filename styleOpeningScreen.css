@@ -12,41 +12,41 @@ body {
 }
 .contain {
   border-radius: 24px !important;
-  width: 480px;
+  width: 360px;
   display: flex;
   margin: 0 auto;
-  min-height: 854px;
+  min-height: 640px;
 }
-.isi {
+.content {
   display: flex;
   flex-direction: column;
   margin: 0 auto;
   width: 85%;
 }
-.isi a {
+.content a {
   color: #7d7e7f;
   font-size: 14pt;
   margin: 20px 0px 20px 10px;
 }
-.isi a:hover {
+.content a:hover {
   color: #000000;
 }
-.isi img {
-  margin-bottom: 200px;
+.content img {
+  margin-bottom: 320px;
   width: 100%;
 }
-.isi h2 {
+.content h2 {
   color: #f3001f;
   font-size: 24pt;
   margin-bottom: 15px;
 }
-.isi h5 {
+.content h5 {
   color: #7d7e7f;
-  font-size: 14pt;
+  font-size: 14px;
   text-align: center;
   margin-bottom: 55px;
 }
-.isi button {
+.content button {
   background-color: #e4e5ea;
   text-align: center;
   color: #747d8c;
