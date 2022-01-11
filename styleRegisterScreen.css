@@ -45,10 +45,13 @@ a {
 .content h2 {
   font-size: 24px;
   margin-bottom: 15px;
-  text-align: center;
+  font-style: bold;
 }
 .content h5 {
   font-size: 14px;
+}
+.content p {
+  font-size: 10px;
 }
 .mobile-text {
   color: #989696b8;

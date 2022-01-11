@@ -46,6 +46,9 @@ body {
   text-align: center;
   margin-bottom: 55px;
 }
+.content p {
+  font-size: 10px;
+}
 .content button {
   background-color: #e4e5ea;
   text-align: center;
