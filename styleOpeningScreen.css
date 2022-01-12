@@ -25,14 +25,13 @@ body {
 }
 .content a {
   color: #7d7e7f;
-  font-size: 14pt;
-  margin: 20px 0px 20px 10px;
+  font-size: 14px;
 }
 .content a:hover {
   color: #000000;
 }
 .content img {
-  margin-bottom: 140px;
+  margin-bottom: 217px;
   width: 100%;
 }
 .content h2 {
@@ -50,6 +49,9 @@ body {
   font-size: 10px;
 }
 .content button {
+  display: flex;
+  margin: 0 auto;
+  max-width: 100%;
   background-color: #e4e5ea;
   text-align: center;
   color: #747d8c;

@@ -26,22 +26,6 @@ a {
   margin: 0 auto;
   width: 85%;
 }
-.content button {
-  display: flex;
-  margin: 0 auto;
-  max-width: 100%;
-  background-color: #e4e5ea;
-  text-align: center;
-  color: #747d8c;
-  font-size: 14px;
-  padding: 8px 40%;
-  border-radius: 4px;
-  margin-bottom: 40px;
-}
-.content button:hover {
-  background-color: #ec2028;
-  color: #ffffff;
-}
 .content h2 {
   font-size: 24px;
   margin-bottom: 15px;
@@ -52,6 +36,22 @@ a {
 }
 .content p {
   font-size: 10px;
+}
+.content button {
+  display: flex;
+  margin: 0 auto;
+  max-width: 100%;
+  background-color: #e4e5ea !important;
+  text-align: center;
+  color: #747d8c !important;
+  font-size: 14px;
+  padding: 8px 40%;
+  border-radius: 4px;
+  margin-bottom: 40px;
+}
+.content button:hover {
+  background-color: #ec2028;
+  color: #ffffff;
 }
 .mobile-text {
   color: #989696b8;
