@@ -98,7 +98,7 @@ body {
   border-radius: 10px;
   box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.2);
 }
-.carousel .card-1 {
+/* .carousel .card-1 {
   background: #ed1c24;
 }
 .carousel .card-2 {
@@ -112,7 +112,7 @@ body {
 }
 .carousel .card-5 {
   background: #630460;
-}
+} */
 .owl-dots {
   text-align: center;
   margin-top: 40px;
