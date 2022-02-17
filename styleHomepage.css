@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  text-decoration: none !important;
+  list-style-type: none !important;
+}
+.contain {
+  padding-top: 50px;
+  padding-bottom: 200px;
+}
+.card1 {
+  margin-top: -150px;
+}
+a {
+  color: #f3001f;
+}
+.slide {
+  display: flex;
+  overflow-x: auto;
+}
+.slide::-webkit-scrollbar {
+  width: 0;
+}
+.cards {
+  width: 20px !important;
+}
